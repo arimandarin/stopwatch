@@ -1,2 +1,2 @@
 # stopwatch
-This a pototype for a stopwatch.
+This a prototype for a stopwatch.
